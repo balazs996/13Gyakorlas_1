@@ -1,0 +1,10 @@
+.elso {
+    width: 40%;
+    background-color: burlywood;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    float: left;
+    margin: 10px;
+}
